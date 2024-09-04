@@ -4,7 +4,7 @@
     "description": "Aplicativo de referência dos dados profissionais de Nathan Gabriel da Silva.",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#ffffff",
+    "background_color": "#000",
     "theme_color": "#000000",
     "orientation": "portrait-primary",
     "scope": "/",
