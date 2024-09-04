@@ -4,7 +4,7 @@ const filesToCache = [
     './',
     './index.html',
     './css/style.css',
-    './img/neymar.png',
+    './img/perfil3.png',
     './script/main.js',
 ]
 
